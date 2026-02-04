@@ -18,3 +18,17 @@ Both datasets were provided via Google Drive links in the assignment email.
 - `Trader_Performance_vs_Market_Sentiment.ipynb`    ← main analysis notebook
 - `requirements.txt`                                 ← Python dependencies
 - `output/`                                          ← saved charts & tables
+
+## Setup & How to Run
+1. Create & activate virtual environment
+   python -m venv .venv
+   source .venv/bin/activate    # Windows: .venv\Scripts\activate
+2. Install dependencies
+   pip install -r requirements.txt
+
+3. Download the two CSV files from the assignment links and place them in the root folder (or in data/):
+ - fear_greed_index.csv
+ - historical_data.csv
+
+4. Open and run the notebook
+ jupyter notebook
