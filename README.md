@@ -36,13 +36,12 @@ Both datasets were provided via Google Drive links in the assignment email.
 → Open Trader_Performance_vs_Market_Sentiment.ipynb and run all cells
 
 Requirements
-Python 3.9–3.11 recommended
-text# requirements.txt content
-pandas>=2.0
-numpy>=1.24
-matplotlib>=3.7
-seaborn>=0.12
-jupyter
+- Python 3.9–3.11 
+- pandas>=2.0
+- numpy>=1.24
+- matplotlib>=3.7
+- seaborn>=0.12
+- jupyter
 
 Methodology
 
