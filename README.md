@@ -2,7 +2,6 @@
 
 # Trader Performance vs Market Sentiment (Fear vs Greed)
 
-**Assignment for Data Science Intern – Primetrade.ai**  
 Analysis of how Bitcoin Fear & Greed Index relates to trader behavior and performance on Hyperliquid.
 
 ## Objective
