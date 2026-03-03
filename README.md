@@ -1,4 +1,4 @@
-# trader-performance-sentiment-analysis
+# Trader-performance-sentiment-analysis
 
 # Trader Performance vs Market Sentiment (Fear vs Greed)
 
